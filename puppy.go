@@ -2,6 +2,8 @@ package puppy
 
 import "github.com/GoesToEleven/dog"
 
+//added v1.0.1 minor changes
+
 func Bark() string {
 	return "Woof"
 }
