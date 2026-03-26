@@ -15,3 +15,7 @@ func Barks() string {
 func BigBarks() string {
 	return "And when grown up it will " + dog.WhenGrownUp(Barks())
 }
+
+func FromLatestVersion() string {
+	return "from v1.2.0"
+}
